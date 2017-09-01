@@ -8,7 +8,7 @@ namespace Lab01
         static void Main(string[] args)
         {
             string name = "Hello";
-            Console.WriteLine("Hello " + "World");
+            Console.WriteLine("Here comes a slash \\");
         }
     }
 }
