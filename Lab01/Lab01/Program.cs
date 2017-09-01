@@ -7,7 +7,10 @@ namespace Lab01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0,-10:X}", 65535);  // (X = upper case)
+            int i;
+            Console.WriteLine("Value\tSquared\tCubed");
+            for (i = 1; i < 10; i++)
+
         }
     }
 }
