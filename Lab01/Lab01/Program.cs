@@ -8,7 +8,7 @@ namespace Lab01
         static void Main(string[] args)
         {
             string name = "Hello";
-            Console.WriteLine("|{0, 10}|", 999);
+            Console.WriteLine("|{0,-10}|", 000);
         }
     }
 }
