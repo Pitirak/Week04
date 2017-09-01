@@ -8,7 +8,7 @@ namespace Lab01
         static void Main(string[] args)
         {
             string name = "Hello";
-            Console.WriteLine("The value: {0:C}.", 500);
+            Console.WriteLine("{0,-10:F4}", 12.3456789);
         }
     }
 }
