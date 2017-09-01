@@ -9,7 +9,7 @@ namespace Lab01
         {
             int i;
             Console.WriteLine("Value\tSquared\tCubed");
-            for (i = 1; i < 10; i++)
+            for (i = 1; i < 10; i++) ;
 
         }
     }
